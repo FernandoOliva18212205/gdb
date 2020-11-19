@@ -22,6 +22,31 @@ Ahora podemos correr en "disas" y luego "stepi"
 
 Ahora lo probaremos con un codigo de C++.
 
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+
+int m;
+for (int i = 1; i <= 12; i++)
+{
+    for (int b = 1; b <= 12; b++)
+    {
+        m = i * b;
+
+        string resultado = to_string(i) + " x " + to_string(b) + " = " + to_string(m);
+
+        cout << resultado << endl;
+        
+    }
+    cout << "-----------------------------------\n" << endl;
+    
+}
+}
+
+arm
+
 ![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen6codigocpp.PNG)
 
 Y de igual forma vemos los resultados.
