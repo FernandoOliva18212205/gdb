@@ -16,6 +16,9 @@ Ahora usamos el gdb para comprobar si funciono.
 ![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen4masymascodigo.PNG)
 ![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen5codigoooo.PNG)
 
+Ahora podemos correr en "disas" y luego "stepi"
+![]()
+
 Ahora lo probaremos con un codigo de C++.
 
 ![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen6codigocpp.PNG)
