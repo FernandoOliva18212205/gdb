@@ -50,6 +50,14 @@ for (int i = 1; i <= 12; i++)
 
 ![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen6codigocpp.PNG)
 
-Y de igual forma vemos los resultados.
+Abrimos el programa con el gdb.
 
-![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen7resultadoscpp.PNG)
+![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen9cpp.PNG)
+
+Ahora creamos el break y lo corremos.
+
+![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen10cppbreak.PNG)
+
+Y por ultimo aplicamos el "disas" y el "stepi"
+
+![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen11cppdisas.PNG)
