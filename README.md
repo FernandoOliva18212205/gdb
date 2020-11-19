@@ -22,6 +22,8 @@ Ahora podemos correr en "disas" y luego "stepi"
 
 Ahora lo probaremos con un codigo de C++.
 
+
+```bash
 #include <iostream>
 #include <string>
 using namespace std;
@@ -44,8 +46,7 @@ for (int i = 1; i <= 12; i++)
     
 }
 }
-
-arm
+```
 
 ![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen6codigocpp.PNG)
 
