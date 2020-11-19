@@ -17,6 +17,7 @@ Ahora usamos el gdb para comprobar si funciono.
 ![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen5codigoooo.PNG)
 
 Ahora podemos correr en "disas" y luego "stepi"
+
 ![](https://github.com/FernandoOliva18212205/gdb/blob/main/Imagenes/imagen8disas.PNG)
 
 Ahora lo probaremos con un codigo de C++.
